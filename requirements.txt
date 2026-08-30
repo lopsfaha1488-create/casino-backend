@@ -1,2 +1,1 @@
-aiogram
-aiohttp
+python-telegram-bot==20.7
